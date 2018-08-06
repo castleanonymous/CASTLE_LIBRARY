@@ -1,2 +1,3 @@
 # CASTLE_LIBRARY
-Read README.docx file which will give details about the usage and installation of library
+
+Look at the README.docx file which has all the setup and library description.
